@@ -10,11 +10,11 @@
 - id: industries
   translation: "Industries"
   
-- id: functions
-  translation: "Business area"
+- id: purpose
+  translation: "Purpose of analysis"
   
 - id: areas
-  translation: "Purpose of analysis"
+  translation: "Business area"
 
 - id: tags
   translation: "Techniques"
@@ -28,9 +28,6 @@
 - id: readMore
   translation: "Read More →"
 
-- id: translations
-  translation: "Translations"
-
 - id: related
   translation: "See also"
 
@@ -40,5 +37,3 @@
 - id: backToTop
   translation: "Back to top"
 
-- id: language
-  translation: "Language"
