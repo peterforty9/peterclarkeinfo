@@ -1,7 +1,7 @@
 ---
-label: HR GDPR compliance
-hide_body: 
-is_partial: 
+label: New project
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
