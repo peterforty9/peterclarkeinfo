@@ -2,4 +2,4 @@
 title: Contact
 
 ---
-Contact us
+Contact
