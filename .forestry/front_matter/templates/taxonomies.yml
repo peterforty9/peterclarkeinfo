@@ -1,15 +1,15 @@
 ---
 label: taxonomies
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
-- name: areas
-  label: Areas
+- name: purposes
+  label: Purpose
   type: list
   hidden: false
   default: ''
@@ -23,8 +23,8 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: functions
-  label: Functions
+- name: areas
+  label: Areas
   type: list
   hidden: false
   default: ''
