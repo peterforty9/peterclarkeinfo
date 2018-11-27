@@ -2,7 +2,7 @@
   translation: "at"
   
 - id: skills
-  translation: "Skills"
+  translation: "Skills used"
   
 - id: roles
   translation: "Roles"
@@ -11,10 +11,10 @@
   translation: "Industries"
   
 - id: functions
-  translation: "Business functions"
+  translation: "Business area"
   
 - id: areas
-  translation: "Areas"
+  translation: "Purpose of analysis"
 
 - id: tags
   translation: "Techniques"
