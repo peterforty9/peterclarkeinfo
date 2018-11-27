@@ -6,7 +6,7 @@ description = "Analysed a stalled project to implement a system for handling sal
 functions = ["Finance"]
 industries = ["Media"]
 organisations = ["The Financial Times"]
-roles = ["Business Analyst"]
+roles = ["Contract", "Business Analyst"]
 skills = ["Requirement gathering", "Stakeholder Interviews"]
 title = "Sales commission system analysis"
 
