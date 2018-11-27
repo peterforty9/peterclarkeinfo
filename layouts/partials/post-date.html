@@ -1,0 +1,16 @@
+{{ $dateFormat := default "Jan 2, 2006" (index .Site.Params "date_format") }}
+
+{{ $organisations := .Params.organisations }}
+<div class="blog-post-date text-secondary">
+    {{ .Date.Format $dateFormat }}
+	{{ range .Params.roles }}
+    <a class="badge badge-secondary" href="{{ "/roles/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+    {{ i18n "by" }} 
+	{{ range .Params.organisations }}
+        <a class="badge badge-secondary" href="{{ "/organisations/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+    {{ range .Params.industries }}
+        <a class="badge badge-info" href="{{ "/industries/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+</div>

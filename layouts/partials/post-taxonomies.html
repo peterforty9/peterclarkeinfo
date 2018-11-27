@@ -1,0 +1,10 @@
+<div class="blog-post-skills text-secondary">
+    <!-- <strong>{{ i18n "skills" }}:</strong>
+   {{ range .Params.skills }}
+        <a class="badge badge-primary" href="{{ "/skills/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+	-->
+	{{ if default true .Site.Params.showTaxonomy }}
+        {{ partial "taxonomiesheader" . }}
+    {{ end }}
+</div>

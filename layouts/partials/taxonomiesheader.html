@@ -1,0 +1,24 @@
+{{ if .Params.functions }}
+<div class="blog-post-functions text-secondary">
+    <strong>{{ i18n "functions" }}:</strong>
+    {{ range .Params.functions }}
+        <a class="badge badge-primary" href="{{ "/functions/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+</div>
+{{ end }}
+{{ if .Params.areas }}
+<div class="blog-post-areas text-secondary">
+    <strong>{{ i18n "areas" }}:</strong>
+    {{ range .Params.areas }}
+        <a class="badge badge-primary" href="{{ "/areas/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+</div>
+{{ end }}
+{{ if .Params.skills }}
+<div class="blog-post-skills text-secondary">
+    <strong>{{ i18n "skills" }}:</strong>
+    {{ range .Params.skills }}
+        <a class="badge badge-primary" href="{{ "/skills/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+</div>
+{{ end }}

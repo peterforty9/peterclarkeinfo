@@ -1,0 +1,44 @@
+- id: by
+  translation: "at"
+  
+- id: skills
+  translation: "Skills"
+  
+- id: roles
+  translation: "Roles"
+  
+- id: industries
+  translation: "Industries"
+  
+- id: functions
+  translation: "Business functions"
+  
+- id: areas
+  translation: "Areas"
+
+- id: tags
+  translation: "Techniques"
+
+- id: categories
+  translation: "Domain"
+  
+- id: analysts
+  translation: "Analysts"
+
+- id: readMore
+  translation: "Read More →"
+
+- id: translations
+  translation: "Translations"
+
+- id: related
+  translation: "See also"
+
+- id: recentPosts
+  translation: "Recent projects"
+
+- id: backToTop
+  translation: "Back to top"
+
+- id: language
+  translation: "Language"
