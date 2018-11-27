@@ -13,8 +13,8 @@ paginatePath = "page"
 [taxonomies]
   tag = "tags"
   category = "categories"
-  
   role = "roles"
+  organisation = "organisations"
   industry = "industries"
   function = "functions"
   skill = "skills"
