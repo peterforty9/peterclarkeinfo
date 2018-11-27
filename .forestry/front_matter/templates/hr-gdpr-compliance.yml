@@ -12,7 +12,14 @@ fields:
   label: Areas
   type: list
   hidden: false
-  default: ''
+  default: []
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: pages
+      file: content/taxonomies.md
+      path: areas
 - name: date
   label: Date
   type: datetime
