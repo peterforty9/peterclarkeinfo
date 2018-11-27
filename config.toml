@@ -16,7 +16,7 @@ paginatePath = "page"
   role = "roles"
   organisation = "organisations"
   industry = "industries"
-  function = "functions"
+  purpose = "purposes"
   skill = "skills"
   area = "areas"
 
