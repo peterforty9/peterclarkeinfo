@@ -1,4 +1,4 @@
-baseurl = "https://peterforty9.github.io/peterclarkeinfosite"
+baseurl = "https://peterforty9.github.io/peterclarkeinfosite/"
 title = "Peter Clarke info"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -30,15 +30,15 @@ paginatePath = "page"
   # copyright = "Hugo template made with ❤ by Xzya"
 
   [[languages.en.menu.main]]
-    url = "/"
+    url = ""
     name = "Home"
     weight = 1
   [[languages.en.menu.main]]
-    url = "/about/"
+    url = "about/"
     name = "About"
     weight = 2
   [[languages.en.menu.main]]
-    url = "/contact/"
+    url = "contact/"
     name = "Contact"
     weight = 3
 
