@@ -1,0 +1,55 @@
+---
+label: HR GDPR compliance
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: areas
+  label: Areas
+  type: list
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: functions
+  label: Functions
+  type: list
+  hidden: false
+  default: ''
+- name: industries
+  label: Industries
+  type: list
+  hidden: false
+  default: ''
+- name: organisations
+  label: Organisations
+  type: list
+  hidden: false
+  default: ''
+- name: roles
+  label: Roles
+  type: list
+  hidden: false
+  default: ''
+- name: skills
+  label: Skills
+  type: list
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
