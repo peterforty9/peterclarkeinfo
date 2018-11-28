@@ -31,7 +31,7 @@ paginatePath = "page"
 
   [[languages.en.menu.main]]
     url = ""
-    name = "Home"
+    name = "Projects"
     weight = 1
   [[languages.en.menu.main]]
     url = "about/"
@@ -52,7 +52,7 @@ paginatePath = "page"
   mainSections = ["post"]
 
   # Default author
-  author = "John Doe"
+  author = "Peter Clarke"
 
   # Date format (default: Jan 2, 2006)
   # date_format = "Jan 2, 2006"
