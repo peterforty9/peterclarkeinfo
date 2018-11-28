@@ -6,8 +6,10 @@ description = "Analysing HR processes for GDPR risks and compliance"
 functions = ["HR"]
 industries = ["Media"]
 organisations = ["The Financial Times"]
+purposes = ["Fact finding"]
 roles = ["Contract", "Business Analyst"]
 skills = ["Requirement gathering", "Stakeholder Interviews", "Process mapping - BPMN", "Process improvements"]
+tags = "GDPR"
 title = "HR GDPR compliance"
 
 +++
