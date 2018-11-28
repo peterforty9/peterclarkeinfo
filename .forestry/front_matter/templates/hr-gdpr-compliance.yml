@@ -3,9 +3,24 @@ label: New project
 hide_body: false
 is_partial: false
 fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
 - name: title
-  label: Title
+  label: Project title
   type: text
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
   hidden: false
   default: ''
 - name: areas
@@ -20,11 +35,6 @@ fields:
       section: pages
       file: content/taxonomies.md
       path: areas
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
 - name: purposes
   label: Purposes
   type: list
@@ -36,34 +46,56 @@ fields:
       type: documents
       section: pages
       file: content/taxonomies.md
-      path: functions
+      path: purposes
 - name: industries
   label: Industries
   type: list
   hidden: false
   default: ''
+  config:
+    use_select: true
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: industries
 - name: organisations
   label: Organisations
   type: list
   hidden: false
   default: ''
+  config:
+    use_select: true
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: organisations
 - name: roles
   label: Roles
   type: list
   hidden: false
   default: ''
+  config:
+    use_select: true
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: roles
 - name: skills
   label: Skills
   type: list
   hidden: false
   default: ''
-- name: author
-  label: Author
-  type: text
-  hidden: false
-  default: ''
-- name: description
-  label: Description
-  type: textarea
-  hidden: false
-  default: ''
+  config:
+    use_select: true
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: skills
+- type: select
+  config:
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: tags
+  label: Tags
+  name: tags
