@@ -25,11 +25,18 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: functions
-  label: Functions
+- name: purposes
+  label: Purposes
   type: list
   hidden: false
   default: ''
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: pages
+      file: content/taxonomies.md
+      path: functions
 - name: industries
   label: Industries
   type: list
