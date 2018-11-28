@@ -13,11 +13,6 @@ fields:
   type: list
   hidden: false
   default: ''
-- name: companies
-  label: Companies
-  type: list
-  hidden: false
-  default: ''
 - name: date
   label: Date
   type: datetime
