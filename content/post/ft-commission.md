@@ -8,11 +8,11 @@ industries = ["Media"]
 organisations = ["The Financial Times"]
 purposes = ["Process analysis", "Fact finding", "Requirement gathering"]
 roles = ["Contract", "Business Analyst"]
-skills = ["Data mapping"]
-tags = []
+skills = ["BPMN", "Process mapping", "Data mapping"]
+tags = ["Sales Commissions"]
 title = "Sales commission system analysis"
 
 +++
 * Conducted interviews to assess the extent of work completed and highlight areas of concern
-* Identified missing requirements and restored business confidence in the project by producing several
-alternative action plans for completing the project
+* Modelled current sales commissions processes to assess benefits of the new system
+* Identified missing requirements and restored business confidence in the project by producing several alternative action plans for completing the project
