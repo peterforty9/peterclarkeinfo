@@ -6,8 +6,9 @@ draft = true
 functions = ["Marketing", "Finance", "Customer services", "HR"]
 industries = ["Media", "Travel", "Data centre services ", "Automotive "]
 organisations = ["Financial Times", "Aqovia", "Eurostar", "The Travel Corporation ", "World Challenge Expeditions ", "InterXion"]
-roles = ["Business Analyst", "Business Systems Analyst", "Systems Analyst", "MI Development Consultant ", "Product owner"]
-skills = ["Process mapping", "Fact finding", "Requirement gathering ", "User story writing ", "BDD test writing", "Backlog management ", "Development strategy ", "Interviewing", "Questionnaires", "SQL reporting", "Senior stakeholder presentation ", "Data mapping"]
+purposes = ["Requirement gathering", "Fact finding", "Process analysis"]
+roles = ["Contract", "Business Analyst", "Business Systems Analyst", "Systems Analyst", "MI Development Consultant ", "Product owner"]
+skills = ["BPMN", "Process mapping", "User story writing ", "BDD test writing", "Backlog management ", "Development strategy ", "SQL reporting", "Data mapping"]
 title = "taxonomies"
 
 +++

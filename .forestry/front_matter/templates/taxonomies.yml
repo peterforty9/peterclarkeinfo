@@ -48,3 +48,5 @@ fields:
   type: list
   hidden: false
   default: ''
+pages:
+- content/taxonomies.md
