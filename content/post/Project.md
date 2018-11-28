@@ -10,8 +10,10 @@ organisations = ["Financial Times"]
 purposes = ["Fact finding", "Requirement gathering"]
 roles = ["Contract", "Business Analyst"]
 skills = ["Website analysis"]
-tags = []
+tags = ["CMS"]
 title = "Static website management"
 
 +++
-vbvcbcvb
+* Interviewed multiple publishing teams to determine how they publish and manage static sites
+* Captured CMS requirements
+* Identified areas of cross-business collaboration with similar publishing requirements 
