@@ -102,5 +102,6 @@ fields:
       path: tags
 pages:
 - content/post/ft-commission.md
+- content/post/Project.md
 - content/post/ft-hrgdpr.md
 - content/post/ft-socialmedia.md
