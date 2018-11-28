@@ -91,14 +91,15 @@ fields:
       type: documents
       file: content/taxonomies.md
       path: skills
-- type: select
+- type: list
+  name: tags
+  label: Tags
   config:
+    use_select: true
     source:
       type: documents
       file: content/taxonomies.md
       path: tags
-  label: Tags
-  name: tags
 pages:
 - content/post/ft-socialmedia.md
 - content/post/ft-hrgdpr.md
