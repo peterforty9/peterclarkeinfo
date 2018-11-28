@@ -42,6 +42,9 @@ fields:
   label: Skills
   type: list
   hidden: false
-  default: ''
+  default: []
+- type: list
+  label: Tags
+  name: tags
 pages:
 - content/taxonomies.md
