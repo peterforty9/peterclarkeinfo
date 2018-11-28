@@ -1,15 +1,15 @@
 +++
-areas = ["GDPR", "Compliance"]
+areas = ["HR"]
 author = "Financial Times"
 date = "2018-05-01"
 description = "Analysing HR processes for GDPR risks and compliance"
 functions = ["HR"]
 industries = ["Media"]
 organisations = ["The Financial Times"]
-purposes = ["Fact finding"]
+purposes = ["Process analysis", "Fact finding"]
 roles = ["Contract", "Business Analyst"]
-skills = ["Requirement gathering", "Stakeholder Interviews", "Process mapping - BPMN", "Process improvements"]
-tags = ["Agile", "GDPR"]
+skills = ["Process mapping", "BPMN"]
+tags = ["GDPR"]
 title = "HR GDPR compliance"
 
 +++
