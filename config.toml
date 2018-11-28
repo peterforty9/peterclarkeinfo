@@ -1,4 +1,4 @@
-baseurl = "https://peterforty9.github.io/"
+baseurl = "http://peterclarke.info/"
 title = "Peter Clarke info"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -27,7 +27,7 @@ paginatePath = "page"
   languageName = "English"
 
   # Replace the default footer message with a localized message
-  # copyright = "Hugo template made with ❤ by Xzya"
+  # copyright = ""
 
   [[languages.en.menu.main]]
     url = ""
