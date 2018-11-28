@@ -1,5 +1,5 @@
 +++
-areas = ["HR", "Product", "Marketing", "Finance"]
+areas = ["HR", "Product", "Digital marketing", "Finance"]
 companies = ["FT"]
 date = "2018-09-26T09:38:45+00:00"
 draft = true
