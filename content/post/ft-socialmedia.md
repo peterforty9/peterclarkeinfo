@@ -8,8 +8,10 @@ industries = ["Media"]
 organisations = ["The Financial Times"]
 purposes = ["Fact finding"]
 roles = ["Contract", "Business Analyst"]
-skills = []
-tags = ["GDPR"]
+skills = ["Website analysis"]
+tags = ["Marketing Tags", "Tracking Pixels"]
 title = "Social Network data sharing"
 
 +++
+* Conducted interviews across the business to establish digital marketing practices
+* Analysed websites to find evidence of marketing tags used by social networks

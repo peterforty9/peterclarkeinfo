@@ -101,5 +101,5 @@ fields:
       file: content/taxonomies.md
       path: tags
 pages:
-- content/post/ft-socialmedia.md
 - content/post/ft-hrgdpr.md
+- content/post/ft-socialmedia.md
