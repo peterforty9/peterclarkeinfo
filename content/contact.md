@@ -2,4 +2,4 @@
 title: Contact
 
 ---
-Email - peter@forty9.co.uk
+peter@forty9.co.uk
