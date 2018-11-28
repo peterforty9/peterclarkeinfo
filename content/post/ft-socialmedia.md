@@ -1,5 +1,5 @@
 +++
-areas = ["Marketing"]
+areas = ["Digital marketing"]
 author = ""
 date = "2018-07-01"
 description = "Discovery exercise of how personal data is shared with Social Networks across digital advertising and marketing teams"
