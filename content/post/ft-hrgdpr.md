@@ -13,5 +13,6 @@ tags = ["GDPR"]
 title = "HR GDPR compliance"
 
 +++
-* Assessed over 50 processes in terms of security of data transfer and storage and supplier compliance to identify GDPR risks and helped to give clarity to the state of play.
-* Worked closely with the Compliance team and guided them in best practice for documenting processes
+* Assessed over 50 processes to identify GDPR risks in security of data transfer &storage and supplier compliance.
+
+* Worked closely with the Legal team and guided them in best practice for documenting processes
