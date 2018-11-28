@@ -23,18 +23,18 @@ title: About
 
 <li class="timeline-inverted"> <div class="timeline-panel"> <div class="timeline-heading"> <h4 class="timeline-title">InterXion</h4> </div> 
 <div class="timeline-body"> 
-<p>June 2016 to February 2017</p> </div> </div> </li> 
+<p>June 2016 - February 2017</p> </div> </div> </li> 
 
 <li> <div class="timeline-panel"> <div class="timeline-heading"> <h4 class="timeline-title">The Travel Corporation</h4> </div> 
 <div class="timeline-body"> 
-<p>November 2014 to May 2016</p> </div> </div> </li> 
+<p>November 2014 - May 2016</p> </div> </div> </li> 
   
 <li class="timeline-inverted"> <div class="timeline-panel"> <div class="timeline-heading"> <h4 class="timeline-title">ADP Dealer Services International</h4> </div> 
 <div class="timeline-body"> 
-<p>April 2012 to November 2014</p> </div> </div> </li>
+<p>April 2012 - November 2014</p> </div> </div> </li>
 
 <li> <div class="timeline-panel"> <div class="timeline-heading"> <h4 class="timeline-title">World Challenge Expeditions</h4> </div> 
 <div class="timeline-body"> 
-<p>April 2006 to March 2012</p> </div> </div> </li> 
+<p>April 2006 - March 2012</p> </div> </div> </li> 
 
 </ul> </div>
