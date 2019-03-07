@@ -13,3 +13,8 @@ tags = ["Software engineering", "Agile"]
 title = "Enhanced editorial feature development"
 
 +++
+Gathered requirements for:
+
+* Publishing tables online
+* Embedding interactive graphics
+* Integrating pages with Qualtrics survey tool
