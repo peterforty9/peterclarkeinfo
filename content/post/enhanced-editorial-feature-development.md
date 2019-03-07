@@ -3,7 +3,6 @@ areas = ["Product"]
 author = "Peter Clarke"
 date = "2018-12-01T00:00:00+00:00"
 description = "Working with a development team to deliver enhanced editorial features"
-draft = true
 industries = ["Media"]
 organisations = ["The Financial Times"]
 purposes = ["Requirement gathering"]
