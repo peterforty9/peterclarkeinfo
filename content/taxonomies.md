@@ -9,7 +9,7 @@ organisations = ["News UK", "The Financial Times", "Aqovia", "Eurostar", "The Tr
 purposes = ["Process engineering", "Requirement gathering", "Fact finding", "Process analysis"]
 roles = ["Contract", "Business Analyst", "Business Systems Analyst", "Systems Analyst", "MI Development Consultant ", "Product owner"]
 skills = ["Website analysis", "BPMN", "Process mapping", "User story writing ", "BDD test writing", "Backlog management ", "Development strategy ", "SQL reporting", "Data mapping"]
-tags = ["Sales Commissions", "Tracking Pixels", "Marketing Tags", "CRM", "Customer portal", "Agile", "GDPR", "CMS"]
+tags = ["Software engineering", "Sales Commissions", "Tracking Pixels", "Marketing Tags", "CRM", "Customer portal", "Agile", "GDPR", "CMS"]
 title = "taxonomies"
 
 +++
