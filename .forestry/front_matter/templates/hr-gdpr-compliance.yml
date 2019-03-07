@@ -1,7 +1,6 @@
 ---
 label: New project
 hide_body: false
-is_partial: false
 fields:
 - name: date
   label: Date
@@ -101,7 +100,8 @@ fields:
       file: content/taxonomies.md
       path: tags
 pages:
-- content/post/ft-commission.md
+- content/post/enhanced-editorial-feature-development.md
 - content/post/Project.md
-- content/post/ft-hrgdpr.md
+- content/post/ft-commission.md
 - content/post/ft-socialmedia.md
+- content/post/ft-hrgdpr.md
