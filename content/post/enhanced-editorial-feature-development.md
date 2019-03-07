@@ -9,7 +9,7 @@ organisations = ["The Financial Times"]
 purposes = ["Requirement gathering"]
 roles = ["Business Analyst"]
 skills = ["Development strategy ", "User story writing "]
-tags = ["Agile"]
+tags = ["Software engineering", "Agile"]
 title = "Enhanced editorial feature development"
 
 +++
