@@ -16,4 +16,4 @@ Gathered requirements for:
 
 * Publishing tables online
 * Embedding interactive graphics
-* Integrating pages with Qualtrics survey tool
+* Integrating web pages with Qualtrics survey tool
